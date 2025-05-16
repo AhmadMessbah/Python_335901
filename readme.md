@@ -6,4 +6,4 @@ Python Github sample:
         - add print("salam")
         - add print(<your name>)
     - comit and push
-    kiana naseri
+    
