@@ -23,7 +23,7 @@ img = ImageTk.PhotoImage(img)
 my_label = Label(window, image=img)
 my_label.place(x=20, y=20)
 
-# Button(window, image=img,command=open_new_form).place(x=20, y=200)
+# plate number entries
 part1 = IntVar(value=12)
 Entry(window, textvariable=part1, font=("B Traffic", 120)).place(x=140, y=50, height=220, width=200)
 
