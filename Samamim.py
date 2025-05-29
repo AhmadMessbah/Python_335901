@@ -1,2 +1,2 @@
 print("Salam")
-print("Sama Mahmoudi")
+print("sama mahmoudi")
